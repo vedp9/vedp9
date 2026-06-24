@@ -24,7 +24,7 @@ I’m comfortable across **Python, SQL, R, and modern visualization tools**, and
 <img
   align="right"
   alt="Dashboard animation"
-  width="260"
+  width="150"
   src="https://raw.githubusercontent.com/vedp9/vedp9/main/assets/dashboard.gif"
 />
 
