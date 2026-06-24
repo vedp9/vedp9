@@ -1,5 +1,3 @@
-<!-- Text on the left, GIF on the right -->
-<img align="right" alt="Coding" width="260" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYXpzazR2ZDNqYnNkYnJ3d2RqYnY4bWI0ZHZnZ2pqazY3MmpiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNOAPjUdo4mpZFkDf8/giphy.gif">
 
 <h1 align="center">Hi there, I'm ✨ Veda Praneeth ✨ 👋</h1>
 
@@ -22,6 +20,8 @@ Professionally, I’ve worked with companies like **Xceedance** and **Lyzr**, op
 I’m comfortable across **Python, SQL, R, and modern visualization tools**, and I’m always exploring new ways to blend analytics, engineering, and AI into real products.  
 
 ---
+<!-- Text on the left, GIF on the right -->
+<img align="right" alt="Coding" width="260" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYXpzazR2ZDNqYnNkYnJ3d2RqYnY4bWI0ZHZnZ2pqazY3MmpiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNOAPjUdo4mpZFkDf8/giphy.gif">
 
 ## 🏪 Local Business Analytics Story
 
