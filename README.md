@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi there, I'm ✨ Veda Praneeth ✨ 👋</h1>
+<h1 align="center">Hi there, It's Ved! 👋</h1>
 
 <h3 align="center">
-Data Analyst turned Data & AI Engineer · Building analytics products and AI-powered experiences
+Data Analyst · Building analytics products and AI-powered experiences
 </h3>
 
 <br/>
@@ -11,7 +11,7 @@ Data Analyst turned Data & AI Engineer · Building analytics products and AI-pow
 
 ## 🧑‍💻 About Me
 
-I’m Veda, a data-focused builder who enjoys turning messy, real-world problems into simple, actionable solutions.  
+I am ✨ Veda Praneeth✨, a data-focused builder who enjoys turning messy, real-world problems into simple, actionable solutions.  
 I completed my **Master of Science in Technology** at **Eastern Illinois University, USA** (GPA: 3.90), where I deepened my skills in data analytics, predictive analytics, and marketing-focused AI agents.  
 
 During my time there, I worked across topics like **advanced databases**, **database security & reliability**, **management of computer technology**, and **network & advanced data communications**, which gave me a strong foundation for both analytics and engineering work.  
