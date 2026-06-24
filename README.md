@@ -1,5 +1,5 @@
 <!-- Left-side coding GIF (replace src with your GIF URL) -->
-<img align="left" alt="Coding" width="260" src="YOUR_GIF_URL_HERE">
+<img align="right" alt="Coding" width="260" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRkYXpzazR2ZDNqYnNkYnJ3d2RqYnY4bWI0ZHZnZ2pqazY3MmpiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nNOAPjUdo4mpZFkDf8/giphy.gif">
 
 <h1 align="center">Hi there, I'm ✨ Veda Praneeth ✨ 👋</h1>
 
@@ -26,7 +26,7 @@ I’m comfortable across **Python, SQL, R, and modern visualization tools**, and
 ## 🏪 Local Business Analytics Story
 
 I’m someone who likes solving real problems, not just doing data work for the sake of it.  
-During a freelance gap, I spent time back in my hometown and noticed how many local shops still ran everything on **paper bill books and manual stock records**.  
+While working independently, I spent time back in my hometown and noticed how many local shops still ran everything on **paper bill books and manual stock records**.  
 
 That stuck with me, so I started **converting their offline records into structured datasets**, analyzing sales patterns, and identifying which products were actually driving profit and which were dragging the business down.  
 From there, I began thinking about a **mobile‑first system** where shop owners could update stock from their phone and automatically receive **weekly or monthly reports**—without needing a computer or complex tools.  
