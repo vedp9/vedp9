@@ -4,7 +4,7 @@ Hi there, It's Ved! 👋
 🌱 <i> Building analytics products & AI‑powered experiences </i>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=vedp9&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vedp9&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
 
