@@ -104,4 +104,4 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 - Email: (add your email here)  
 - (Optional) Portfolio / Blog / YouTube links  
 
-❤️ By Veda Praneeth
+❤️ By [Veda Praneeth](https://github.com/vedp9)
