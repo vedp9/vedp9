@@ -7,6 +7,13 @@ Hi there, It's Ved! 👋
   <img src="https://komarev.com/ghpvc/?username=vedp9&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
+<img
+  align="right"
+  alt="Dashboard animation"
+  width="150"
+  src="https://raw.githubusercontent.com/vedp9/vedp9/main/assets/laptopsetup.gif"
+/>
+
 
 🧑‍💻 About Me
 ---
