@@ -10,7 +10,7 @@ Hi there, It's Ved! 👋
 <img
   align="right"
   alt="Dashboard animation"
-  width="150"
+  width="140"
   src="https://raw.githubusercontent.com/vedp9/vedp9/main/assets/laptopsetup.gif"
 />
 
