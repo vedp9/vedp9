@@ -21,7 +21,12 @@ I’m comfortable across **Python, SQL, R, and modern visualization tools**, and
 
 ---
 <!-- Text on the left, GIF on the right -->
-<img align="right" alt="Coding" width="260" src="https://raw.githubusercontent.com/vedp9/main/assets/dashboard.gif">
+<img
+  align="right"
+  alt="Dashboard animation"
+  width="260"
+  src="https://raw.githubusercontent.com/vedp9/vedp9/main/assets/dashboard.gif"
+/>
 
 ## 🏪 Local Business Analytics Story
 
