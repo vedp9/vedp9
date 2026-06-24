@@ -1,10 +1,7 @@
 
-<h2 align="left">Hi there, It's Ved! 👋</h2>
+Hi there, It's Ved! 👋
 
-<h3 align="left">
-Building analytics products and AI-powered experiences
-</h3>
-
+🌱 <i> Building analytics products & AI‑powered experiences </i>
 
 
 🧑‍💻 About Me
@@ -20,7 +17,7 @@ I’m comfortable across **Python, SQL, R, and modern visualization tools**, and
 
 
 
-## 🏪 Local Business Analytics Story
+🏪 Local Business Analytics Story
 ---
 I’m someone who likes solving real problems, not just doing data work for the sake of it.  
 While working independently, I spent time back in my hometown and noticed how many local shops still ran everything on **paper bill books and manual stock records**.  
@@ -39,7 +36,7 @@ From there, I began thinking about a **mobile‑first system** where shop owners
 For me, this project is about more than analytics; it’s about **giving small businesses decision-making power** in a way that fits how they already work, instead of forcing them into tools that don’t match their day-to-day reality.  
 
 
-## 🎯 What I’m Focusing On
+🎯 What I’m Focusing On
 ---
 - Moving from **Analytics → Data / AI Engineering**, with a product mindset.  
 - Building **end-to-end pipelines**: from raw data → clean models → dashboards / simple frontends.  
