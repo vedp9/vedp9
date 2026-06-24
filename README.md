@@ -20,6 +20,13 @@ Professionally, I’ve worked with companies like **Xceedance** and **Lyzr**, op
 I’m comfortable across **Python, SQL, R, and modern visualization tools**, and I’m always exploring new ways to blend analytics, engineering, and AI into real products.  
 
 ---
+
+
+## 🏪 Local Business Analytics Story
+
+I’m someone who likes solving real problems, not just doing data work for the sake of it.  
+While working independently, I spent time back in my hometown and noticed how many local shops still ran everything on **paper bill books and manual stock records**.  
+
 <!-- Text on the left, GIF on the right -->
 <img
   align="right"
@@ -27,11 +34,6 @@ I’m comfortable across **Python, SQL, R, and modern visualization tools**, and
   width="150"
   src="https://raw.githubusercontent.com/vedp9/vedp9/main/assets/dashboard.gif"
 />
-
-## 🏪 Local Business Analytics Story
-
-I’m someone who likes solving real problems, not just doing data work for the sake of it.  
-While working independently, I spent time back in my hometown and noticed how many local shops still ran everything on **paper bill books and manual stock records**.  
 
 That stuck with me, so I started **converting their offline records into structured datasets**, analyzing sales patterns, and identifying which products were actually driving profit and which were dragging the business down.  
 From there, I began thinking about a **mobile‑first system** where shop owners could update stock from their phone and automatically receive **weekly or monthly reports**—without needing a computer or complex tools.  
