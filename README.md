@@ -7,7 +7,7 @@ Building analytics products and AI-powered experiences
 
 
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 ---
 I am ✨ Veda Praneeth✨, a data-focused builder who enjoys turning messy, real-world problems into simple, actionable solutions.  
 I completed my **Master of Science in Technology** at **Eastern Illinois University, USA** (GPA: 3.90), where I deepened my skills in data analytics, predictive analytics, and marketing-focused AI agents.  
