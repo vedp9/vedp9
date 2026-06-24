@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi there, It's Ved! 👋</h1>
+<h2 align="left">Hi there, It's Ved! 👋</h2>
 
-<h3 align="center">
-Data Analyst · Building analytics products and AI-powered experiences
+<h3 align="left">
+Building analytics products and AI-powered experiences
 </h3>
 
 <br/>
