@@ -98,9 +98,9 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 - LinkedIn: (add your profile link here)
   
 <img
-  align="center"
+  align="right"
   alt="Dashboard animation"
-  width="90"
+  width="140"
   src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"
 />  
 - Email: (add your email here)
