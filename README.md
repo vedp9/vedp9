@@ -65,9 +65,8 @@ Advanced database concepts · basic data modeling · pipeline optimization
 **AI / ML & Agents**  
 Predictive analytics · LLM‑powered tools and AI agents for analytics workflows  
 
+⚙️ AI Product Studio (14 AI Systems)
 ---
-
-## ⚙️ AI Product Studio (14 AI Systems)
 
 [AI‑Product‑Studio](https://github.com/vedp9/AI-Product-Studio) is my lab of **14 production‑ready AI systems** built with repeatable patterns.
 
