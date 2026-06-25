@@ -1,5 +1,5 @@
 
-Hi there, It's Ved! 👋
+**Hi there, It's Ved!** 👋
 
 🌱 <i> Building analytics products & AI‑powered experiences </i>
 
@@ -60,24 +60,24 @@ For me, this project is about more than analytics; it’s about **giving small b
 
 🛠️ Tech Stack
 ---
-### Languages & Querying
+**Languages & Querying**
 - Python · SQL · R  
 
-### Data & Analytics
+**Data & Analytics**
 - Data cleaning & validation  
 - Exploratory data analysis (EDA)  
 - Marketing & customer analytics  
 
-### Visualization & BI
+**Visualization & BI**
 - Tableau  
 - Power BI  
 - Excel, Matplotlib, Seaborn  
 
-### Databases & Systems
+**Databases & Systems**
 - Advanced database concepts (from coursework: design, security, reliability)  
 - Basics of data modeling and pipeline optimization  
 
-### AI / ML & Agents
+**AI / ML & Agents**
 - Predictive analytics & classical ML with Python  
 - Marketing analytical agents and AI-driven insights  
 - Currently exploring LLMs / AI agents for analytics workflows  
