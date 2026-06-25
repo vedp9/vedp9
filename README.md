@@ -1,13 +1,9 @@
 ### Hi there, It's Ved! 👋
 
 ##### 🌱 <i> Building analytics products & AI‑powered experiences </i>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=vedp9&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
-
-
-
 🧑‍💻 About Me
 ---
 I am ✨ Veda Praneeth✨, a data-focused builder who enjoys turning messy, real-world problems into simple, actionable solutions.  
