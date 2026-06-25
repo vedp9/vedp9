@@ -1,4 +1,4 @@
-#### Hi there, It's Ved! 👋
+### Hi there, It's Ved! 👋
 
 ##### 🌱 <i> Building analytics products & AI‑powered experiences </i>
 
