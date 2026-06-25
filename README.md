@@ -8,13 +8,6 @@ Hi there, It's Ved! 👋
 </p>
 
 
-<img
-  align="right"
-  alt="Dashboard animation"
-  width="180"
-  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
-/>
-
 
 🧑‍💻 About Me
 ---
@@ -22,6 +15,14 @@ I am ✨ Veda Praneeth✨, a data-focused builder who enjoys turning messy, real
 I completed my **Master of Science in Technology** at **Eastern Illinois University, USA** (GPA: 3.90), where I deepened my skills in data analytics, predictive analytics, and marketing-focused AI agents.  
 
 During my time there, I worked across topics like **advanced databases**, **database security & reliability**, **management of computer technology**, and **network & advanced data communications**, which gave me a strong foundation for both analytics and engineering work.  
+
+<img
+  align="right"
+  alt="Dashboard animation"
+  width="180"
+  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+/>
+
 
 Professionally, I’ve worked with companies like **Xceedance** and **Lyzr**, optimizing data pipelines, running correlation and behavioral analyses, and designing dashboards that actually support business decisions—not just “pretty charts.”  
 I’m comfortable across **Python, SQL, R, and modern visualization tools**, and I’m always exploring new ways to blend analytics, engineering, and AI into real products.  
