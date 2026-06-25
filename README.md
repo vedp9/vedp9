@@ -1,5 +1,4 @@
-
-**Hi there, It's Ved!** 👋
+Hi there, It's Ved! 👋
 
 🌱 <i> Building analytics products & AI‑powered experiences </i>
 
@@ -35,13 +34,6 @@ I’m comfortable across **Python, SQL, R, and modern visualization tools**, and
 I’m someone who likes solving real problems, not just doing data work for the sake of it.  
 While working independently, I spent time back in my hometown and noticed how many local shops still ran everything on **paper bill books and manual stock records**.  
 
-<!-- Text on the left, GIF on the right -->
-<img
-  align="right"
-  alt="Dashboard animation"
-  width="150"
-  src="https://raw.githubusercontent.com/vedp9/vedp9/main/assets/dashboard.gif"
-/>
 
 That stuck with me, so I started **converting their offline records into structured datasets**, analyzing sales patterns, and identifying which products were actually driving profit and which were dragging the business down.  
 From there, I began thinking about a **mobile‑first system** where shop owners could update stock from their phone and automatically receive **weekly or monthly reports**—without needing a computer or complex tools.  
@@ -60,28 +52,23 @@ For me, this project is about more than analytics; it’s about **giving small b
 
 🛠️ Tech Stack
 ---
-**Languages & Querying**
-- Python · SQL · R  
+<!-- Text on the left, GIF on the right -->
+<img
+  align="right"
+  alt="Dashboard animation"
+  width="150"
+  src="https://raw.githubusercontent.com/vedp9/vedp9/main/assets/dashboard.gif"
+/>
 
-**Data & Analytics**
-- Data cleaning & validation  
-- Exploratory data analysis (EDA)  
-- Marketing & customer analytics  
+**Languages & Querying**: Python, SQL, R  
 
-**Visualization & BI**
-- Tableau  
-- Power BI  
-- Excel, Matplotlib, Seaborn  
+**Data & Analytics**: Data cleaning & validation, Exploratory data analysis (EDA) ,Marketing & customer analytics  
 
-**Databases & Systems**
-- Advanced database concepts (from coursework: design, security, reliability)  
-- Basics of data modeling and pipeline optimization  
+**Visualization & BI**: Tableau, Power BI, Excel, Matplotlib, Seaborn  
 
-**AI / ML & Agents**
-- Predictive analytics & classical ML with Python  
-- Marketing analytical agents and AI-driven insights  
-- Currently exploring LLMs / AI agents for analytics workflows  
+**Databases & Systems**: Advanced database concepts (from coursework: design, security, reliability), Basics of data modeling and pipeline optimization.  
 
+**AI / ML & Agents**: Predictive analytics & classical ML with Python, Marketing analytical agents and AI-driven insights ,Currently exploring LLMs / AI agents for analytics workflows.  
 
 
 📦 Featured Projects
@@ -110,7 +97,7 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
   align="right"
   alt="Dashboard animation"
   width="90"
-  src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
+  src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"
 />
 - GitHub: [vedp9](https://github.com/vedp9)  
 - LinkedIn: (add your profile link here)  
