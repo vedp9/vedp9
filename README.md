@@ -92,23 +92,53 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 ✨ Side Projects & Experiments
 ---
 
-<p align="center">
-  I explore small, human‑centered ideas that help people think better, connect deeper, and take action on what matters.
-</p>
+<div align="center">
 
+  <!-- Card 1 -->
+  <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
+    <h3>🧠 Think Better Daily</h3>
+    <p style="font-size: 0.9rem;">
+      A daily thinking practice that helps me stay calm, solve problems clearly, and build consistency one day at a time.
+    </p>
+    <a href="https://think-better-daily.vercel.app" target="_blank">
+      <b>View project →</b>
+    </a>
+  </div>
 
+  <!-- Card 2 -->
+  <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
+    <h3>🌱 RisePath</h3>
+    <p style="font-size: 0.9rem;">
+      A peer mentorship platform that connects students with mentors for guidance, focus, and confidence during early career decisions.
+    </p>
+    <a href="https://rise-path-connect.vercel.app" target="_blank">
+      <b>View project →</b>
+    </a>
+  </div>
 
-#### 🧠 Think Better Daily
-A daily thinking practice to stay calm, solve problems clearly, and build consistency one day at a time.
+  <!-- Card 3 -->
+  <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
+    <h3>📌 UnSave</h3>
+    <p style="font-size: 0.9rem;">
+      A simple tool that helps people stop saving endlessly and start acting on the links they collect. Paste any public URL, decide what to do with it, and turn saved content into a real action queue.
+    </p>
+    <a href="https://un-save.vercel.app" target="_blank">
+      <b>View project →</b>
+    </a>
+  </div>
 
-#### 🌱 RisePath
-A peer mentorship platform concept connecting students with mentors for guidance, focus, and confidence in early career decisions.
+  <!-- Card 4 -->
+  <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
+    <h3>🌊 Soul Space</h3>
+    <p style="font-size: 0.9rem;">
+      A calm, anonymous listening space where people can express what they’re feeling, release the pressure, and feel genuinely heard by real humans.
+    </p>
+    <a href="https://soul-space-listen.lovable.app/" target="_blank">
+      <b>View project →</b>
+    </a>
+  </div>
 
-#### 📌 UnSave
-A lightweight tool idea to turn “saved forever” links into an action queue, so people actually use what they collect.
-
-#### 🌊 Soul Space 
-An anonymous listening space concept where people can share what they’re feeling, release pressure, and feel genuinely heard.
+</div>
 
 
 📫 How to Reach Me
