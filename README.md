@@ -58,7 +58,7 @@ For me, this project is about more than analytics; it’s about **giving small b
 
 
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 ---
 ### Languages & Querying
 - Python · SQL · R  
@@ -86,19 +86,19 @@ For me, this project is about more than analytics; it’s about **giving small b
 
 📦 Featured Projects
 ---
-### 1️⃣ Olist E‑commerce Dashboard  
+1️⃣ **Olist E‑commerce Dashboard**  
 Repo: [olist-ecommerce-dashboard](https://github.com/vedp9/olist-ecommerce-dashboard)  
 Designed and deployed an interactive Tableau dashboard visualizing geographic performance, revenue trends, and delivery logistics to uncover regional growth opportunities.  
 
 
 
-### 2️⃣ Marketing Funnel & User Journey Analysis  
+2️⃣ **Marketing Funnel & User Journey Analysis**  
 Repo: [Marketing-Funnel-User-Journey-Analysis](https://github.com/vedp9/Marketing-Funnel-User-Journey-Analysis)  
 Executed an end-to-end user journey analysis across digital funnel stages to isolate conversion mechanics and pinpoint customer drop-off points.  
 
 
 
-### 3️⃣ Customer Cohort & Retention Study  
+3️⃣ **Customer Cohort & Retention Study**  
 Repo: [Customer-Cohort-Retention-Study](https://github.com/vedp9/Customer-Cohort-Retention-Study)  
 Constructed a longitudinal cohort retention model using Python and SQL to track recurring customer behavior trends over historical horizons.  
 
@@ -106,16 +106,15 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 
 📫 How to Reach Me
 ---
-- GitHub: [vedp9](https://github.com/vedp9)  
-- LinkedIn: (add your profile link here)  
-- Email: (add your email here)
 <img
   align="right"
   alt="Dashboard animation"
-  width="150"
+  width="120"
   src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
 />
-
+- GitHub: [vedp9](https://github.com/vedp9)  
+- LinkedIn: (add your profile link here)  
+- Email: (add your email here)
 - (Optional) Portfolio / Blog / YouTube links  
 
 ❤️ By [Veda Praneeth](https://github.com/vedp9)
