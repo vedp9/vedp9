@@ -106,4 +106,4 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/deepdive99)
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vedapraneeth)
   
-❤️ By [Veda Praneeth](https://github.com/vedp9)
+❤️ [By Veda Praneeth](https://github.com/vedp9)
