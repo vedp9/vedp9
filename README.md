@@ -109,7 +109,7 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 <img
   align="right"
   alt="Dashboard animation"
-  width="120"
+  width="90"
   src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
 />
 - GitHub: [vedp9](https://github.com/vedp9)  
