@@ -84,7 +84,7 @@ For me, this project is about more than analytics; it’s about **giving small b
 
 
 
-## 📦 Featured Projects
+📦 Featured Projects
 ---
 ### 1️⃣ Olist E‑commerce Dashboard  
 Repo: [olist-ecommerce-dashboard](https://github.com/vedp9/olist-ecommerce-dashboard)  
@@ -104,11 +104,18 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 
 
 
-## 📫 How to Reach Me
+📫 How to Reach Me
 ---
 - GitHub: [vedp9](https://github.com/vedp9)  
 - LinkedIn: (add your profile link here)  
-- Email: (add your email here)  
+- Email: (add your email here)
+<img
+  align="right"
+  alt="Dashboard animation"
+  width="150"
+  src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png"
+/>
+
 - (Optional) Portfolio / Blog / YouTube links  
 
 ❤️ By [Veda Praneeth](https://github.com/vedp9)
