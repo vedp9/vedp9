@@ -46,59 +46,62 @@ For me, this project is about more than analytics; it’s about **giving small b
 - Designing **marketing and e-commerce analytics** workflows that are actually useful to business teams.  
 - Experimenting with **AI agents / LLM-powered tools** for analytics and decision support.  
 
-
-
----
+## 🧩 Skills & AI Systems
 
 <div align="center">
 
   <!-- Left column: Skills -->
   <div style="display: inline-block; vertical-align: top; width: 48%; text-align: left;">
 
-    ## 🛠️ Skills Snapshot
+    <h3>🛠️ Skills Snapshot</h3>
 
-    **Languages & Querying**  
-    Python · SQL · R  
+    <strong>Languages & Querying</strong><br/>
+    Python · SQL · R<br/><br/>
 
-    **Data & Analytics**  
-    Data cleaning & validation · Exploratory data analysis · Marketing & customer analytics  
+    <strong>Data & Analytics</strong><br/>
+    Data cleaning & validation · Exploratory data analysis · Marketing & customer analytics<br/><br/>
 
-    **Visualization & BI**  
-    Tableau · Power BI · Excel · Matplotlib · Seaborn  
+    <strong>Visualization & BI</strong><br/>
+    Tableau · Power BI · Excel · Matplotlib · Seaborn<br/><br/>
 
-    **Databases & Systems**  
-    Advanced database concepts · basic data modeling · pipeline optimization  
+    <strong>Databases & Systems</strong><br/>
+    Advanced database concepts · basic data modeling · pipeline optimization<br/><br/>
 
-    **AI / ML & Agents**  
-    Predictive analytics · LLM‑powered tools and AI agents for analytics workflows  
+    <strong>AI / ML & Agents</strong><br/>
+    Predictive analytics · LLM‑powered tools and AI agents for analytics workflows
 
   </div>
 
   <!-- Right column: AI Product Studio -->
   <div style="display: inline-block; vertical-align: top; width: 48%; text-align: left;">
 
-    ## ⚙️ AI Product Studio
+    <h3>⚙️ AI Product Studio</h3>
 
-    [AI‑Product‑Studio](https://github.com/vedp9/AI-Product-Studio) is my lab of **14 production‑ready AI systems**, all built with repeatable patterns.
+    <p>
+      <a href="https://github.com/vedp9/AI-Product-Studio"><strong>AI‑Product‑Studio</strong></a> 
+      is my lab of <strong>14 production‑ready AI systems</strong>, all built with repeatable patterns.
+    </p>
 
-    **Build‑in‑Public Stats**  
-    - 14 projects  
-    - 6 deployed on Streamlit Cloud  
-    - 8 run locally with `faster-whisper` & `sentence-transformers`  
-    - 4 external APIs: Gemini, Tavily, GitHub, HuggingFace  
-    - 0 paid API calls – everything on free tiers
+    <strong>Build‑in‑Public Stats</strong><br/>
+    • 14 projects<br/>
+    • 6 deployed on Streamlit Cloud<br/>
+    • 8 run locally with <code>faster-whisper</code> & <code>sentence-transformers</code><br/>
+    • 4 external APIs: Gemini, Tavily, GitHub, HuggingFace<br/>
+    • 0 paid API calls – everything on free tiers<br/><br/>
 
-    **Patterns I keep reusing**  
-    - RAG pipelines with ChromaDB  
-    - Pydantic‑validated LLM outputs  
-    - Defense‑in‑depth safety (prompt + validation + post‑processing)  
-    - Self‑correction loops using error messages  
-    - Map‑reduce style AI workflows  
-    - Two‑step classification to cut API usage
+    <strong>Patterns I keep reusing</strong><br/>
+    • RAG pipelines with ChromaDB<br/>
+    • Pydantic‑validated LLM outputs<br/>
+    • Defense‑in‑depth safety (prompt + validation + post‑processing)<br/>
+    • Self‑correction loops using error messages<br/>
+    • Map‑reduce style AI workflows<br/>
+    • Two‑step classification to cut API usage
 
   </div>
 
 </div>
+
+
 
 
 
