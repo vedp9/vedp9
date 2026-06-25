@@ -48,25 +48,58 @@ For me, this project is about more than analytics; it’s about **giving small b
 
 
 
-🛠️ Skills
 ---
-<!-- Text on the left, GIF on the right -->
-<img
-  align="right"
-  alt="Dashboard animation"
-  width="150"
-  src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"
-/>
 
-**Languages & Querying**: Python, SQL, R  
+<div align="center">
 
-**Data & Analytics**: Data cleaning & validation, Exploratory data analysis (EDA) ,Marketing & customer analytics  
+  <!-- Left column: Skills -->
+  <div style="display: inline-block; vertical-align: top; width: 48%; text-align: left;">
 
-**Visualization & BI**: Tableau, Power BI, Excel, Matplotlib, Seaborn  
+    ## 🛠️ Skills Snapshot
 
-**Databases & Systems**: Advanced database concepts (from coursework: design, security, reliability), Basics of data modeling and pipeline optimization.  
+    **Languages & Querying**  
+    Python · SQL · R  
 
-**AI / ML & Agents**: Predictive analytics & classical ML with Python, Marketing analytical agents and AI-driven insights ,Currently exploring LLMs / AI agents for analytics workflows.  
+    **Data & Analytics**  
+    Data cleaning & validation · Exploratory data analysis · Marketing & customer analytics  
+
+    **Visualization & BI**  
+    Tableau · Power BI · Excel · Matplotlib · Seaborn  
+
+    **Databases & Systems**  
+    Advanced database concepts · basic data modeling · pipeline optimization  
+
+    **AI / ML & Agents**  
+    Predictive analytics · LLM‑powered tools and AI agents for analytics workflows  
+
+  </div>
+
+  <!-- Right column: AI Product Studio -->
+  <div style="display: inline-block; vertical-align: top; width: 48%; text-align: left;">
+
+    ## ⚙️ AI Product Studio
+
+    [AI‑Product‑Studio](https://github.com/vedp9/AI-Product-Studio) is my lab of **14 production‑ready AI systems**, all built with repeatable patterns.
+
+    **Build‑in‑Public Stats**  
+    - 14 projects  
+    - 6 deployed on Streamlit Cloud  
+    - 8 run locally with `faster-whisper` & `sentence-transformers`  
+    - 4 external APIs: Gemini, Tavily, GitHub, HuggingFace  
+    - 0 paid API calls – everything on free tiers
+
+    **Patterns I keep reusing**  
+    - RAG pipelines with ChromaDB  
+    - Pydantic‑validated LLM outputs  
+    - Defense‑in‑depth safety (prompt + validation + post‑processing)  
+    - Self‑correction loops using error messages  
+    - Map‑reduce style AI workflows  
+    - Two‑step classification to cut API usage
+
+  </div>
+
+</div>
+
 
 
 📦 Featured Projects
