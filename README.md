@@ -24,6 +24,7 @@ During my time there, I worked across topics like **advanced databases**, **data
 
 
 Professionally, I’ve worked with companies like **Xceedance** and **Lyzr**, optimizing data pipelines, running correlation and behavioral analyses, and designing dashboards that actually support business decisions—not just “pretty charts.”  
+
 I’m comfortable across **Python, SQL, R, and modern visualization tools**, and I’m always exploring new ways to blend analytics, engineering, and AI into real products.  
 
 
@@ -43,14 +44,13 @@ For me, this project is about more than analytics; it’s about **giving small b
 
 🎯 What I’m Focusing On
 ---
-- Moving from **Analytics → Data / AI Engineering**, with a product mindset.  
 - Building **end-to-end pipelines**: from raw data → clean models → dashboards / simple frontends.  
 - Designing **marketing and e-commerce analytics** workflows that are actually useful to business teams.  
 - Experimenting with **AI agents / LLM-powered tools** for analytics and decision support.  
 
 
 
-🛠️ Tech Stack
+🛠️ Skills
 ---
 <!-- Text on the left, GIF on the right -->
 <img
