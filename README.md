@@ -89,6 +89,28 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 
 
 
+✨ Side Projects & Experiments
+---
+
+<p align="center">
+  I explore small, human‑centered ideas that help people think better, connect deeper, and take action on what matters.
+</p>
+
+
+
+#### 🧠 Think Better Daily
+A daily thinking practice to stay calm, solve problems clearly, and build consistency one day at a time.
+
+#### 🌱 RisePath
+A peer mentorship platform concept connecting students with mentors for guidance, focus, and confidence in early career decisions.
+
+#### 📌 UnSave
+A lightweight tool idea to turn “saved forever” links into an action queue, so people actually use what they collect.
+
+#### 🌊 Soul Space 
+An anonymous listening space concept where people can share what they’re feeling, release pressure, and feel genuinely heard.
+
+
 📫 How to Reach Me
 ---
 
