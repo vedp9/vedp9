@@ -46,8 +46,6 @@ For me, this project is about more than analytics; it’s about **giving small b
 - Designing **marketing and e-commerce analytics** workflows that are actually useful to business teams.  
 - Experimenting with **AI agents / LLM-powered tools** for analytics and decision support.  
 
-
-
 ## 🛠️ Skills Snapshot
 
 **Languages & Querying**  
@@ -64,25 +62,6 @@ Advanced database concepts · basic data modeling · pipeline optimization
 
 **AI / ML & Agents**  
 Predictive analytics · LLM‑powered tools and AI agents for analytics workflows  
-
-⚙️ AI Product Studio (14 AI Systems)
----
-
-[AI‑Product‑Studio](https://github.com/vedp9/AI-Product-Studio) is my lab of **14 production‑ready AI systems** built with repeatable patterns.
-
-- 14 projects · 6 deployed on Streamlit Cloud  
-- 8 run locally with `faster-whisper` & `sentence-transformers`  
-- 4 external APIs: Gemini, Tavily, GitHub, HuggingFace  
-- 0 paid API calls – all on free tiers  
-
-**Patterns I keep reusing:**  
-- RAG pipelines with ChromaDB  
-- Pydantic‑validated LLM outputs  
-- Defense‑in‑depth safety (prompt + validation + post‑processing)  
-- Self‑correction loops using error messages  
-- Map‑reduce style AI workflows  
-- Two‑step classification to cut API usage  
-
 
 📦 Featured Projects
 ---
@@ -102,7 +81,23 @@ Executed an end-to-end user journey analysis across digital funnel stages to iso
 Repo: [Customer-Cohort-Retention-Study](https://github.com/vedp9/Customer-Cohort-Retention-Study)  
 Constructed a longitudinal cohort retention model using Python and SQL to track recurring customer behavior trends over historical horizons.  
 
+⚙️ AI Product Studio (14 AI Systems)
+---
 
+[AI‑Product‑Studio](https://github.com/vedp9/AI-Product-Studio) is my lab of **14 production‑ready AI systems** built with repeatable patterns.
+
+- 14 projects · 6 deployed on Streamlit Cloud  
+- 8 run locally with `faster-whisper` & `sentence-transformers`  
+- 4 external APIs: Gemini, Tavily, GitHub, HuggingFace  
+- 0 paid API calls – all on free tiers  
+
+**Patterns I keep reusing:**  
+- RAG pipelines with ChromaDB  
+- Pydantic‑validated LLM outputs  
+- Defense‑in‑depth safety (prompt + validation + post‑processing)  
+- Self‑correction loops using error messages  
+- Map‑reduce style AI workflows  
+- Two‑step classification to cut API usage  
 
 ✨ Side Projects & Experiments
 ---
