@@ -26,18 +26,24 @@ Professionally, I’ve worked with companies like **Xceedance** and **Lyzr**, op
 I’m comfortable across **Python, SQL, R, and modern visualization tools**, and I’m always exploring new ways to blend analytics, engineering, and AI into real products.  
 
 
-
-
-🏪 Local Business Analytics Story
+📦 Featured Projects
 ---
-I’m someone who likes solving real problems, not just doing data work for the sake of it.  
-While working independently, I spent time back in my hometown and noticed how many local shops still ran everything on **paper bill books and manual stock records**.  
+1️⃣ **Olist E‑commerce Dashboard**  
+Repo: [olist-ecommerce-dashboard](https://github.com/vedp9/olist-ecommerce-dashboard)  
+Designed and deployed an interactive Tableau dashboard visualizing geographic performance, revenue trends, and delivery logistics to uncover regional growth opportunities.  
 
 
-That stuck with me, so I started **converting their offline records into structured datasets**, analyzing sales patterns, and identifying which products were actually driving profit and which were dragging the business down.  
-From there, I began thinking about a **mobile‑first system** where shop owners could update stock from their phone and automatically receive **weekly or monthly reports**—without needing a computer or complex tools.  
 
-For me, this project is about more than analytics; it’s about **giving small businesses decision-making power** in a way that fits how they already work, instead of forcing them into tools that don’t match their day-to-day reality.  
+2️⃣ **Marketing Funnel & User Journey Analysis**  
+Repo: [Marketing-Funnel-User-Journey-Analysis](https://github.com/vedp9/Marketing-Funnel-User-Journey-Analysis)  
+Executed an end-to-end user journey analysis across digital funnel stages to isolate conversion mechanics and pinpoint customer drop-off points.  
+
+
+
+3️⃣ **Customer Cohort & Retention Study**  
+Repo: [Customer-Cohort-Retention-Study](https://github.com/vedp9/Customer-Cohort-Retention-Study)  
+Constructed a longitudinal cohort retention model using Python and SQL to track recurring customer behavior trends over historical horizons.  
+
 
 
 🎯 What I’m Focusing On
@@ -63,23 +69,7 @@ Advanced database concepts · basic data modeling · pipeline optimization
 **AI / ML & Agents**  
 Predictive analytics · LLM‑powered tools and AI agents for analytics workflows  
 
-📦 Featured Projects
----
-1️⃣ **Olist E‑commerce Dashboard**  
-Repo: [olist-ecommerce-dashboard](https://github.com/vedp9/olist-ecommerce-dashboard)  
-Designed and deployed an interactive Tableau dashboard visualizing geographic performance, revenue trends, and delivery logistics to uncover regional growth opportunities.  
 
-
-
-2️⃣ **Marketing Funnel & User Journey Analysis**  
-Repo: [Marketing-Funnel-User-Journey-Analysis](https://github.com/vedp9/Marketing-Funnel-User-Journey-Analysis)  
-Executed an end-to-end user journey analysis across digital funnel stages to isolate conversion mechanics and pinpoint customer drop-off points.  
-
-
-
-3️⃣ **Customer Cohort & Retention Study**  
-Repo: [Customer-Cohort-Retention-Study](https://github.com/vedp9/Customer-Cohort-Retention-Study)  
-Constructed a longitudinal cohort retention model using Python and SQL to track recurring customer behavior trends over historical horizons.  
 
 ⚙️ AI Product Studio (14 AI Systems)
 ---
@@ -150,6 +140,16 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 
 </div>
 
+🏪 Local Business Analytics Story
+---
+I’m someone who likes solving real problems, not just doing data work for the sake of it.  
+While working independently, I spent time back in my hometown and noticed how many local shops still ran everything on **paper bill books and manual stock records**.  
+
+
+That stuck with me, so I started **converting their offline records into structured datasets**, analyzing sales patterns, and identifying which products were actually driving profit and which were dragging the business down.  
+From there, I began thinking about a **mobile‑first system** where shop owners could update stock from their phone and automatically receive **weekly or monthly reports**—without needing a computer or complex tools.  
+
+For me, this project is about more than analytics; it’s about **giving small businesses decision-making power** in a way that fits how they already work, instead of forcing them into tools that don’t match their day-to-day reality.  
 
 📫 How to Reach Me
 ---
