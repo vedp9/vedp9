@@ -111,8 +111,11 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
     <p style="font-size: 0.9rem;">
       A peer mentorship platform that connects students with mentors for guidance, focus, and confidence during early career decisions.
     </p>
-    <a href="https://rise-path-connect.vercel.app" target="_blank">
+    <a href="https://github.com/vedp9/RisePath" target="_blank">
       <b>View project →</b>
+    </a>
+    <a href="https://rise-path-connect.vercel.app" target="_blank">
+      <b>Website →</b>
     </a>
   </div>
 
