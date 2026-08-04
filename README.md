@@ -114,6 +114,8 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
     <a href="https://github.com/vedp9/RisePath" target="_blank">
       <b>View project →</b>
     </a>
+  </div>
+  <div>
     <a href="https://rise-path-connect.vercel.app" target="_blank">
       <b>Website →</b>
     </a>
