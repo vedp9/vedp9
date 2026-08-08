@@ -101,7 +101,7 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
       A daily thinking practice that helps me stay calm, solve problems clearly, and build consistency one day at a time.
     </p>
     <a href="https://think-better-daily.vercel.app" target="_blank">
-      <b>View project →</b>
+      <b>Website →</b>
     </a>
   </div>
 
@@ -128,7 +128,7 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
       A simple tool that helps people stop saving endlessly and start acting on the links they collect. Paste any public URL, decide what to do with it, and turn saved content into a real action queue.
     </p>
     <a href="https://un-save.vercel.app" target="_blank">
-      <b>View project →</b>
+      <b>Website →</b>
     </a>
   </div>
 
@@ -139,8 +139,40 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
       A calm, anonymous listening space where people can express what they’re feeling, release the pressure, and feel genuinely heard by real humans.
     </p>
     <a href="https://soul-space-listen.lovable.app/" target="_blank">
+      <b>Website →</b>
+    </a>
+  </div>
+
+  <!-- Card 5 -->
+  <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
+    <h3>🧠 AI Flashcard Hub</h3>
+    <p style="font-size: 0.9rem;">
+      A guided zero-to-hero learning platform featuring interactive flashcards with real-world scenarios, categorized quizzes, and a comprehensive glossary covering production ML and AI engineering systems.
+    </p>
+    <a href="https://github.com/vedp9/ai-flashcards-hub" target="_blank">
       <b>View project →</b>
     </a>
+    <div>
+    <a href="https://vedp9.github.io/ai-flashcards-hub" target="_blank">
+      <b>Website →</b>
+    </a>
+  </div>
+  </div>
+
+  <!-- Card 6 -->
+  <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
+    <h3>🔥 Anyone Can't Hurt Me Engine</h3>
+    <p style="font-size: 0.9rem;">
+      An interactive, 3D card-swiping feed delivering curated mindset quotes, real-world source citations, and daily actionable insights to build daily drive and mental toughness.
+    </p>
+    <a href="https://github.com/vedp9/resilience_quotes_build" target="_blank">
+      <b>View project →</b>
+    </a>
+    <div>
+    <a href="https://anyone-cant-hurt-me.vercel.app" target="_blank">
+      <b>Website →</b>
+    </a>
+  </div>
   </div>
 
 </div>
