@@ -177,17 +177,6 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 
 </div>
 
-🏪 Local Business Analytics Story
----
-I’m someone who likes solving real problems, not just doing data work for the sake of it.  
-While working independently, I spent time back in my hometown and noticed how many local shops still ran everything on **paper bill books and manual stock records**.  
-
-
-That stuck with me, so I started **converting their offline records into structured datasets**, analyzing sales patterns, and identifying which products were actually driving profit and which were dragging the business down.  
-From there, I began thinking about a **mobile‑first system** where shop owners could update stock from their phone and automatically receive **weekly or monthly reports**—without needing a computer or complex tools.  
-
-For me, this project is about more than analytics; it’s about **giving small businesses decision-making power** in a way that fits how they already work, instead of forcing them into tools that don’t match their day-to-day reality.  
-
 📫 How to Reach Me
 ---
 
