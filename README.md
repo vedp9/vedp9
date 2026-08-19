@@ -202,12 +202,12 @@ A personal lab of production-pattern AI systems: RAG pipelines, Pydantic-validat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vedp9&amp;show_icons=true&amp;theme=transparent&amp;bg_color=00000000&amp;title_color=FFB000&amp;text_color=8B949E&amp;icon_color=FFB000&amp;border_color=FFB000&amp;hide_border=false&amp;count_private=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=vedp9&amp;show_icons=true&amp;theme=transparent&amp;bg_color=00000000&amp;title_color=FFB000&amp;text_color=8B949E&amp;icon_color=FFB000&amp;border_color=FFB000&amp;hide_border=false&amp;count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedp9&amp;theme=dark&amp;background=0D1117&amp;stroke=FFB000&amp;ring=FFB000&amp;fire=FFB000&amp;currStreakLabel=FFB000&amp;sideLabels=8B949E&amp;currStreakNum=FFB000&amp;sideNums=FFB000&amp;dates=8B949E&amp;border=FFB000" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedp9&amp;layout=compact&amp;theme=transparent&amp;bg_color=00000000&amp;title_color=FFB000&amp;text_color=8B949E&amp;border_color=FFB000&amp;hide_border=false" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vedp9&amp;layout=compact&amp;theme=transparent&amp;bg_color=00000000&amp;title_color=FFB000&amp;text_color=8B949E&amp;border_color=FFB000&amp;hide_border=false" width="48%" />
 
 </div>
 
@@ -217,7 +217,7 @@ A personal lab of production-pattern AI systems: RAG pipelines, Pydantic-validat
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vedp9&amp;theme=dark&amp;no-frame=true&amp;column=7&amp;margin-w=8&amp;margin-h=8&amp;title_color=FFB000&amp;background=0D1117&amp;border_color=FFB000" />
+<img src="https://github-trophies.vercel.app/?username=vedp9&amp;theme=dark&amp;no-frame=true&amp;column=7&amp;margin-w=8&amp;margin-h=8&amp;title_color=FFB000&amp;background=0D1117&amp;border_color=FFB000" />
 
 </div>
 
