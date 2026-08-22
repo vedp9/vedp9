@@ -4,7 +4,7 @@
 
 ### Hi there, It's Ved! 👋
 
-##### 🌱 <i> AI ENGINEER | Building AI‑powered experiences </i>
+##### 🌱 <i> AI Engineer | Building AI-powered experiences with LLMs, RAG, and agentic workflows </i>
 
 🧑‍💻 About Me
 ---
