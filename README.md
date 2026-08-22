@@ -4,7 +4,7 @@
 
 ### Hi there, It's Ved! 👋
 
-##### 🌱 <i> Building analytics products & AI‑powered experiences </i>
+##### 🌱 <i> AI ENGINEER | Building AI‑powered experiences </i>
 
 🧑‍💻 About Me
 ---
