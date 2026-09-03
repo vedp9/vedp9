@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=vedp9&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
-# Hi, I’m Veda Praneeth 👋
+### Hi, I’m Ved 👋
 
 **AI Engineer building reliable, measurable, and cost-efficient AI systems.**
 
