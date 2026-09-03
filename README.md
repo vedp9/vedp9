@@ -2,13 +2,13 @@
   <img src="https://komarev.com/ghpvc/?username=vedp9&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
-### Hi there, It's Ved! 👋
+### Hi there, It's Ved! 
 
-##### 🌱 <i> AI Engineer | Building AI-powered experiences with LLMs, RAG, and agentic workflows </i>
+#####  <i> AI Engineer | Building AI-powered experiences with LLMs, RAG, and agentic workflows </i>
 
-🧑‍💻 About Me
+ About Me
 ---
-I am ✨ Veda Praneeth✨, a data-focused builder who enjoys turning messy, real-world problems into simple, actionable solutions.  
+A data-focused builder who enjoys turning messy, real-world problems into simple, actionable solutions.  
 I completed my **Master of Science in Technology** at **Eastern Illinois University, USA** (GPA: 3.90), where I deepened my skills in data analytics, predictive analytics, and marketing-focused AI agents.  
 
 During my time there, I worked across topics like **advanced databases**, **database security & reliability**, **management of computer technology**, and **network & advanced data communications**, which gave me a strong foundation for both analytics and engineering work.  
@@ -26,7 +26,7 @@ Professionally, I’ve worked with companies like **Xceedance** and **Lyzr**, op
 I’m comfortable across **Python, SQL, R, and modern visualization tools**, and I’m always exploring new ways to blend analytics, engineering, and AI into real products.  
 
 
-📦 Featured Projects
+Featured Projects
 ---
 1️⃣ **Olist E‑commerce Dashboard**  
 Repo: [olist-ecommerce-dashboard](https://github.com/vedp9/olist-ecommerce-dashboard)  
@@ -46,13 +46,13 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 
 
 
-🎯 What I’m Focusing On
+What I’m Focusing On
 ---
 - Building **end-to-end pipelines**: from raw data → clean models → dashboards / simple frontends.  
 - Designing **marketing and e-commerce analytics** workflows that are actually useful to business teams.  
 - Experimenting with **AI agents / LLM-powered tools** for analytics and decision support.  
 
-## 🛠️ Skills Snapshot
+## Skills Snapshot
 
 **Languages & Querying**  
 Python · SQL · R  
@@ -71,7 +71,7 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 
 
 
-⚙️ AI Product Studio (14 AI Systems)
+AI Product Studio (14 AI Systems)
 ---
 
 [AI‑Product‑Studio](https://github.com/vedp9/AI-Product-Studio) is my lab of **14 production‑ready AI systems** built with repeatable patterns.
@@ -89,14 +89,14 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 - Map‑reduce style AI workflows  
 - Two‑step classification to cut API usage  
 
-✨ Side Projects & Experiments
+Side Projects & Experiments
 ---
 
 <div align="center">
 
   <!-- Card 1 -->
   <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
-    <h3>🧠 Think Better Daily</h3>
+    <h3>Think Better Daily</h3>
     <p style="font-size: 0.9rem;">
       A daily thinking practice that helps me stay calm, solve problems clearly, and build consistency one day at a time.
     </p>
@@ -107,7 +107,7 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 
   <!-- Card 2 -->
   <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
-    <h3>🌱 RisePath</h3>
+    <h3>RisePath</h3>
     <p style="font-size: 0.9rem;">
       A peer mentorship platform that connects students with mentors for guidance, focus, and confidence during early career decisions.
     </p>
@@ -123,7 +123,7 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 
   <!-- Card 3 -->
   <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
-    <h3>📌 UnSave</h3>
+    <h3>UnSave</h3>
     <p style="font-size: 0.9rem;">
       A simple tool that helps people stop saving endlessly and start acting on the links they collect. Paste any public URL, decide what to do with it, and turn saved content into a real action queue.
     </p>
@@ -145,7 +145,7 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 
   <!-- Card 5 -->
   <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
-    <h3>🧠 AI Flashcard Hub</h3>
+    <h3>AI Flashcard Hub</h3>
     <p style="font-size: 0.9rem;">
       A guided zero-to-hero learning platform featuring interactive flashcards with real-world scenarios, categorized quizzes, and a comprehensive glossary covering production ML and AI engineering systems.
     </p>
@@ -161,7 +161,7 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 
   <!-- Card 6 -->
   <div style="display: inline-block; text-align: left; margin: 10px; padding: 16px; border-radius: 12px; border: 1px solid #e0e0e0; max-width: 260px;">
-    <h3>🔥 Anyone Can't Hurt Me Engine</h3>
+    <h3>Anyone Can't Hurt Me Engine</h3>
     <p style="font-size: 0.9rem;">
       An interactive, 3D card-swiping feed delivering curated mindset quotes, real-world source citations, and daily actionable insights to build daily drive and mental toughness.
     </p>
@@ -177,7 +177,7 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 
 </div>
 
-📫 How to Reach Me
+How to Reach Me
 ---
 
 <img
@@ -192,4 +192,4 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/deepdive99)
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vedapraneeth)
   
-❤️ [By Veda Praneeth](https://github.com/vedp9)
+[By Veda Praneeth](https://github.com/vedp9)
