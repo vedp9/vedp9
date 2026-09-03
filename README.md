@@ -6,7 +6,7 @@
 
 #####  <i> AI Engineer | Building AI-powered experiences with LLMs, RAG, and agentic workflows </i>
 
- About Me
+### About Me
 ---
 A data-focused builder who enjoys turning messy, real-world problems into simple, actionable solutions.  
 I completed my **Master of Science in Technology** at **Eastern Illinois University, USA** (GPA: 3.90), where I deepened my skills in data analytics, predictive analytics, and marketing-focused AI agents.  
@@ -20,13 +20,12 @@ During my time there, I worked across topics like **advanced databases**, **data
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
 />
 
-
 Professionally, I’ve worked with companies like **Xceedance** and **Lyzr**, optimizing data pipelines, running correlation and behavioral analyses, and designing dashboards that actually support business decisions—not just “pretty charts.”  
 
 I’m comfortable across **Python, SQL, R, and modern visualization tools**, and I’m always exploring new ways to blend analytics, engineering, and AI into real products.  
 
 
-Featured Projects
+### Featured Projects
 ---
 1️⃣ **Olist E‑commerce Dashboard**  
 Repo: [olist-ecommerce-dashboard](https://github.com/vedp9/olist-ecommerce-dashboard)  
@@ -46,13 +45,13 @@ Constructed a longitudinal cohort retention model using Python and SQL to track 
 
 
 
-What I’m Focusing On
+### What I’m Focusing On
 ---
 - Building **end-to-end pipelines**: from raw data → clean models → dashboards / simple frontends.  
 - Designing **marketing and e-commerce analytics** workflows that are actually useful to business teams.  
 - Experimenting with **AI agents / LLM-powered tools** for analytics and decision support.  
 
-## Skills Snapshot
+### Skills Snapshot
 
 **Languages & Querying**  
 Python · SQL · R  
@@ -71,7 +70,7 @@ Predictive analytics · LLM‑powered tools and AI agents for analytics workflow
 
 
 
-AI Product Studio (14 AI Systems)
+### AI Product Studio (14 AI Systems)
 ---
 
 [AI‑Product‑Studio](https://github.com/vedp9/AI-Product-Studio) is my lab of **14 production‑ready AI systems** built with repeatable patterns.
@@ -96,7 +95,7 @@ I also build small tools and experiments around productivity, learning, and the 
 
 [Explore my Side Projects →](https://github.com/vedp9/side-projects)
 
-How to Reach Me
+### How to Reach Me
 ---
 
 <img
