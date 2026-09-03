@@ -10,7 +10,7 @@ I build practical AI products where the model is only one part of the system—c
 
 <img align="right" alt="Developer animation" width="180" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-## What I Build
+### What I Build
 
 - Agentic workflows for research, knowledge extraction, automation, and decision support
 - RAG systems that retrieve grounded information before generating answers
@@ -19,7 +19,7 @@ I build practical AI products where the model is only one part of the system—c
 
 My background in **data analytics, SQL, and data modeling** shapes how I build AI systems: I start with the real problem, design the simplest reliable solution, and improve it by measuring quality, latency, and cost.
 
-## Featured AI Projects
+### Featured AI Projects
 
 | Project | What it does | 
 |---|---|
@@ -29,13 +29,13 @@ My background in **data analytics, SQL, and data modeling** shapes how I build A
 
 > Explore the full collection of AI applications—including RAG, agentic workflows, structured outputs, safety, and evaluation experiments in **[AI Product Studio](https://github.com/vedp9/AI-Product-Studio)**.
 
-## Data Project
+### Data Project
 
 | Project | What it demonstrates |
 |---|---|
 | **[E-Commerce Analytics](https://github.com/vedp9/olist-ecommerce-dashboard)** | Analyzed 100K+ Olist orders across 9 tables; built a star schema, validated data quality, used advanced SQL and Python, and created Tableau dashboards to identify revenue, delivery, and retention opportunities. |
 
-## Technical Toolkit
+### Technical Toolkit
 
 **Languages**  
 Python · SQL
@@ -52,18 +52,18 @@ PostgreSQL · MySQL · pgvector · Tableau · Excel · Data Modeling · ETL
 **Infrastructure**  
 Docker · Redis · Git · GitHub Actions
 
-## Background
+### Background
 
 I hold an **M.S. in Computer Technology** from **Eastern Illinois University**. My experience spans data analytics, SQL-based data understanding, dashboarding, and AI product development.
 
 Previously, I worked in insurance analytics at **Xceedance**, where I analyzed complex SQL workflows and translated pipeline logic into clear documentation for analytical teams.
 
-## Beyond AI Engineering
+### Beyond AI Engineering
 
 Small products and experiments in productivity, learning, and personal growth.
 
 [Explore Side Projects & Experiments →](https://github.com/vedp9/side-projects)
 
-## Let’s Connect
+### Let’s Connect
 
 [LinkedIn](https://www.linkedin.com/in/vedapraneeth/) · [AI Product Studio](https://github.com/vedp9/AI-Product-Studio) · [GitHub](https://github.com/vedp9)
