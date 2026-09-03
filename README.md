@@ -27,7 +27,7 @@ My background in **data analytics, SQL, and data modeling** shapes how I approac
 | **[PRReview AI](https://github.com/vedp9/AI-Product-Studio/tree/main/08-prreview-ai)** | An AI-assisted code-review workflow designed to identify potential issues and provide structured feedback before changes are merged. |
 | **[QueryMind](https://github.com/vedp9/AI-Product-Studio/tree/main/13-querymind)** | A natural-language interface that helps users explore structured data and turn questions into actionable insights. |
 
-> Explore the full collection of AI applications—including RAG, agentic workflows, structured outputs, safety, and evaluation experiments—in **[AI Product Studio](https://github.com/vedp9/AI-Product-Studio)**.
+> Explore the full collection of AI applications—including RAG, agentic workflows, structured outputs, safety, and evaluation experiments in **[AI Product Studio](https://github.com/vedp9/AI-Product-Studio)**.
 
 ## Data Project
 
