@@ -37,8 +37,6 @@ My background in **data analytics, SQL, and data modeling** shapes how I build A
 
 ## Technical Toolkit
 
-## Technical Toolkit
-
 **Languages**  
 Python · SQL
 
