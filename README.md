@@ -17,7 +17,7 @@ I build practical AI products where the model is only one part of the system—c
 - Evaluation and validation layers that make AI outputs more reliable
 - Data and analytics products that turn complex information into useful decisions
 
-My background in **data analytics, SQL, and data modeling** shapes how I approach AI engineering: start with the real problem, build the smallest reliable system, measure quality, latency, and cost, then improve based on evidence.
+My background in **data analytics, SQL, and data modeling** shapes how I build AI systems: I start with the real problem, design the simplest reliable solution, and improve it by measuring quality, latency, and cost.
 
 ## Featured AI Projects
 
@@ -62,7 +62,7 @@ Previously, I worked in insurance analytics at **Xceedance**, where I analyzed c
 
 ## Beyond AI Engineering
 
-I also build small tools and experiments around productivity, learning, and personal growth.
+Small products and experiments in productivity, learning, and personal growth.
 
 [Explore Side Projects & Experiments →](https://github.com/vedp9/side-projects)
 
