@@ -2,112 +2,62 @@
   <img src="https://komarev.com/ghpvc/?username=vedp9&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
-### Hi there, It's Ved! 
+# Hi, I’m Veda Praneeth 👋
 
-#####  <i> AI Engineer | Building AI-powered experiences with LLMs, RAG, and agentic workflows </i>
+**AI Engineer building reliable, measurable, and cost-efficient AI systems.**
 
-### About Me
----
-A data-focused builder who enjoys turning messy, real-world problems into simple, actionable solutions.  
-I completed my **Master of Science in Technology** at **Eastern Illinois University, USA** (GPA: 3.90), where I deepened my skills in data analytics, predictive analytics, and marketing-focused AI agents.  
+I build practical AI products where the model is only one part of the system—combining retrieval, orchestration, validation, evaluation, and human review to make AI useful beyond a demo.
 
-During my time there, I worked across topics like **advanced databases**, **database security & reliability**, **management of computer technology**, and **network & advanced data communications**, which gave me a strong foundation for both analytics and engineering work.  
+<img align="right" alt="Developer animation" width="180" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<img
-  align="right"
-  alt="Dashboard animation"
-  width="180"
-  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
-/>
+## What I Build
 
-Professionally, I’ve worked with companies like **Xceedance** and **Lyzr**, optimizing data pipelines, running correlation and behavioral analyses, and designing dashboards that actually support business decisions—not just “pretty charts.”  
+- Agentic workflows for research, knowledge extraction, automation, and decision support
+- RAG systems that retrieve grounded information before generating answers
+- Evaluation and validation layers that make AI outputs more reliable
+- Data and analytics products that turn complex information into useful decisions
 
-I’m comfortable across **Python, SQL, R, and modern visualization tools**, and I’m always exploring new ways to blend analytics, engineering, and AI into real products.  
+My background in **data analytics, SQL, and data modeling** shapes how I approach AI engineering: start with the real problem, build the smallest reliable system, measure quality, latency, and cost, then improve based on evidence.
 
+## Featured AI Projects
 
-### Featured Projects
----
-1️⃣ **Olist E‑commerce Dashboard**  
-Repo: [olist-ecommerce-dashboard](https://github.com/vedp9/olist-ecommerce-dashboard)  
-Designed and deployed an interactive Tableau dashboard visualizing geographic performance, revenue trends, and delivery logistics to uncover regional growth opportunities.  
+| Project | What it does | Links |
+|---|---|---|
+| **ResearchForge** | A research workflow for gathering, organizing, and synthesizing information into useful, structured outputs. | [View project](https://github.com/vedp9/AI-Product-Studio/tree/main/09-researchforge) |
+| **PRReview AI** | An AI-assisted code-review workflow designed to identify potential issues and provide structured feedback before changes are merged. | [View project](https://github.com/vedp9/AI-Product-Studio/tree/main/08-prreview-ai) |
+| **QueryMind** | A natural-language interface that helps users explore structured data and turn questions into actionable insights. | [View project](https://github.com/vedp9/AI-Product-Studio/tree/main/13-querymind) |
 
+> Explore the full collection of AI applications—including RAG, agentic workflows, structured outputs, safety, and evaluation experiments—in **[AI Product Studio](https://github.com/vedp9/AI-Product-Studio)**.
 
+## Technical Toolkit
 
-2️⃣ **Marketing Funnel & User Journey Analysis**  
-Repo: [Marketing-Funnel-User-Journey-Analysis](https://github.com/vedp9/Marketing-Funnel-User-Journey-Analysis)  
-Executed an end-to-end user journey analysis across digital funnel stages to isolate conversion mechanics and pinpoint customer drop-off points.  
+**Languages**  
+Python · SQL
 
+**AI Engineering**  
+LLMs · RAG · Agentic Workflows · Structured Outputs · LLM Evaluation · Observability
 
-
-3️⃣ **Customer Cohort & Retention Study**  
-Repo: [Customer-Cohort-Retention-Study](https://github.com/vedp9/Customer-Cohort-Retention-Study)  
-Constructed a longitudinal cohort retention model using Python and SQL to track recurring customer behavior trends over historical horizons.  
-
-
-
-### What I’m Focusing On
----
-- Building **end-to-end pipelines**: from raw data → clean models → dashboards / simple frontends.  
-- Designing **marketing and e-commerce analytics** workflows that are actually useful to business teams.  
-- Experimenting with **AI agents / LLM-powered tools** for analytics and decision support.  
-
-### Skills Snapshot
-
-**Languages & Querying**  
-Python · SQL · R  
+**Libraries & Frameworks**  
+PyTorch · Pandas · FastAPI · Pydantic · Streamlit · Langfuse · Temporal
 
 **Data & Analytics**  
-Data cleaning & validation · Exploratory data analysis · Marketing & customer analytics  
+PostgreSQL · MySQL · pgvector · Tableau · Excel · Data Modeling · ETL
 
-**Visualization & BI**  
-Tableau · Power BI · Excel · Matplotlib · Seaborn  
+**Infrastructure**  
+Docker · Redis · Git · GitHub Actions
 
-**Databases & Systems**  
-Advanced database concepts · basic data modeling · pipeline optimization  
+## Background
 
-**AI / ML & Agents**  
-Predictive analytics · LLM‑powered tools and AI agents for analytics workflows  
+I hold an **M.S. in Computer Technology** from **Eastern Illinois University**. My experience spans data analytics, SQL-based data understanding, dashboarding, and AI product development.
 
+Previously, I worked in insurance analytics at **Xceedance**, where I analyzed complex SQL workflows and translated pipeline logic into clear documentation for analytical teams.
 
+## Beyond AI Engineering
 
-### AI Product Studio (14 AI Systems)
----
+I also build small tools and experiments around productivity, learning, and personal growth.
 
-[AI‑Product‑Studio](https://github.com/vedp9/AI-Product-Studio) is my lab of **14 production‑ready AI systems** built with repeatable patterns.
+[Explore Side Projects & Experiments →](https://github.com/vedp9/side-projects)
 
-- 14 projects · 6 deployed on Streamlit Cloud  
-- 8 run locally with `faster-whisper` & `sentence-transformers`  
-- 4 external APIs: Gemini, Tavily, GitHub, HuggingFace  
-- 0 paid API calls – all on free tiers  
+## Let’s Connect
 
-**Patterns I keep reusing:**  
-- RAG pipelines with ChromaDB  
-- Pydantic‑validated LLM outputs  
-- Defense‑in‑depth safety (prompt + validation + post‑processing)  
-- Self‑correction loops using error messages  
-- Map‑reduce style AI workflows  
-- Two‑step classification to cut API usage  
-
----
-### Side Projects & Experiments
-
-I also build small tools and experiments around productivity, learning, and the internet.
-
-[Explore my Side Projects →](https://github.com/vedp9/side-projects)
-
-### How to Reach Me
----
-
-<img
-  align="right"
-  alt="Dashboard animation"
-  width="140"
-  src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"
-/>  
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedapraneeth/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/deepdive99)
-[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/vedapraneeth)
-  
-[By Veda Praneeth](https://github.com/vedp9)
+[LinkedIn](https://www.linkedin.com/in/vedapraneeth/) · [AI Product Studio](https://github.com/vedp9/AI-Product-Studio) · [GitHub](https://github.com/vedp9)
