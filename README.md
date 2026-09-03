@@ -29,6 +29,14 @@ My background in **data analytics, SQL, and data modeling** shapes how I approac
 
 > Explore the full collection of AI applications—including RAG, agentic workflows, structured outputs, safety, and evaluation experiments—in **[AI Product Studio](https://github.com/vedp9/AI-Product-Studio)**.
 
+## Data Project
+
+| Project | What it demonstrates | Links |
+|---|---|---|
+| **E-Commerce Analytics** | Analyzed 100K+ Olist orders across 9 tables; built a star schema, validated data quality, used advanced SQL and Python, and created Tableau dashboards to identify revenue, delivery, and retention opportunities. | [View project](https://github.com/vedp9/olist-ecommerce-dashboard) |
+
+## Technical Toolkit
+
 ## Technical Toolkit
 
 **Languages**  
