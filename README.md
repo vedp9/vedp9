@@ -23,9 +23,9 @@ My background in **data analytics, SQL, and data modeling** shapes how I approac
 
 | Project | What it does | Links |
 |---|---|---|
-| **ResearchForge** | A research workflow for gathering, organizing, and synthesizing information into useful, structured outputs. | [View project](https://github.com/vedp9/AI-Product-Studio/tree/main/09-researchforge) |
-| **PRReview AI** | An AI-assisted code-review workflow designed to identify potential issues and provide structured feedback before changes are merged. | [View project](https://github.com/vedp9/AI-Product-Studio/tree/main/08-prreview-ai) |
-| **QueryMind** | A natural-language interface that helps users explore structured data and turn questions into actionable insights. | [View project](https://github.com/vedp9/AI-Product-Studio/tree/main/13-querymind) |
+| **ResearchForge** | A research workflow for gathering, organizing, and synthesizing information into useful, structured outputs. | [Project](https://github.com/vedp9/AI-Product-Studio/tree/main/09-researchforge) |
+| **PRReview AI** | An AI-assisted code-review workflow designed to identify potential issues and provide structured feedback before changes are merged. | [Project](https://github.com/vedp9/AI-Product-Studio/tree/main/08-prreview-ai) |
+| **QueryMind** | A natural-language interface that helps users explore structured data and turn questions into actionable insights. | [Project](https://github.com/vedp9/AI-Product-Studio/tree/main/13-querymind) |
 
 > Explore the full collection of AI applications—including RAG, agentic workflows, structured outputs, safety, and evaluation experiments—in **[AI Product Studio](https://github.com/vedp9/AI-Product-Studio)**.
 
@@ -33,7 +33,7 @@ My background in **data analytics, SQL, and data modeling** shapes how I approac
 
 | Project | What it demonstrates | Links |
 |---|---|---|
-| **E-Commerce Analytics** | Analyzed 100K+ Olist orders across 9 tables; built a star schema, validated data quality, used advanced SQL and Python, and created Tableau dashboards to identify revenue, delivery, and retention opportunities. | [View project](https://github.com/vedp9/olist-ecommerce-dashboard) |
+| **E-Commerce Analytics** | Analyzed 100K+ Olist orders across 9 tables; built a star schema, validated data quality, used advanced SQL and Python, and created Tableau dashboards to identify revenue, delivery, and retention opportunities. | [Project](https://github.com/vedp9/olist-ecommerce-dashboard) |
 
 ## Technical Toolkit
 
