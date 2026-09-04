@@ -41,9 +41,9 @@ Explore the wider collection of AI applications—including RAG, agentic workflo
 | Project | What it demonstrates |
 |---|---|
 | **[Olist E-Commerce Analytics](https://github.com/vedp9/olist-ecommerce-dashboard)** | An analysis of 100K+ Olist orders across nine tables, using data-quality validation, star-schema modeling, advanced SQL, Python, and Tableau to surface revenue, delivery, and retention opportunities. |
-
+<!--
 Explore more analytics and data work in **[Data Systems Lab](https://github.com/vedp9/data-systems-lab)**.
-
+-->
 ## Product Builds
 
 I also build user-facing products and learning experiences in **[Product Lab](https://github.com/vedp9/product-lab)**, including local-business workflows, learning tools, product experiments, and prototypes.
