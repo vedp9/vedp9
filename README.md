@@ -14,8 +14,6 @@
 
 ### Hi, I’m Ved 👋
 
-**AI Engineer building reliable, measurable, and practical AI systems.**
-
 I build AI products where the model is one part of a dependable system—combining retrieval, orchestration, validation, evaluation, and human review to solve real user and business problems.
 
 ## What I Build
@@ -24,7 +22,7 @@ I build AI products where the model is one part of a dependable system—combini
 - **Reliable AI systems** — evaluation, guardrails, validation, observability, and cost-aware design
 - **Data products** — analytics, data modeling, SQL workflows, dashboards, and actionable business insights
 
-My background in **data analytics, SQL, and data modeling** shapes how I build: start with the problem, use the simplest reliable architecture, and improve it through measurable quality, latency, and cost.
+My background in data analytics, SQL, and data modeling shapes how I build: I start with the problem, use the simplest reliable architecture, and improve it through measurable quality, latency, and cost. I completed my MS in Computer Science at Eastern Illinois University and previously worked at Xceedance as a data analyst.
 
 ## Featured AI Work
 
