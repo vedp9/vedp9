@@ -14,7 +14,7 @@
 
 ### Hi, I’m Ved 👋
 
-I build AI products where the model is one part of a dependable system—combining retrieval, orchestration, validation, evaluation, and human review to solve real user and business problems.
+I build AI products where the model is one part of a dependable system - combining retrieval, orchestration, validation, evaluation, and human review to solve real user and business problems.
 
 ## What I Build
 
