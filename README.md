@@ -28,9 +28,9 @@ My background in data analytics, SQL, and data modeling shapes how I build: I st
 
 | Project | What it demonstrates |
 |---|---|
-| **[ResearchForge](https://github.com/vedp9/AI-Product-Studio/tree/main/09-researchforge)** | A research workflow for gathering, organizing, and synthesizing information into structured, useful outputs. |
-| **[PRReview AI](https://github.com/vedp9/AI-Product-Studio/tree/main/08-prreview-ai)** | An AI-assisted code-review workflow that identifies potential issues and produces structured feedback before changes are merged. |
-| **[QueryMind](https://github.com/vedp9/AI-Product-Studio/tree/main/13-querymind)** | A guarded natural-language-to-SQL experience for exploring structured data, with validation and self-correction considerations. |
+| **[ResearchForge](https://github.com/vedp9/AI-Product-Studio/tree/main/featured/researchforge)** | A research workflow for gathering, organizing, and synthesizing information into structured, useful outputs. |
+| **[PRReview AI](https://github.com/vedp9/AI-Product-Studio/tree/main/featured/prreview-ai)** | An AI-assisted code-review workflow that identifies potential issues and produces structured feedback before changes are merged. |
+| **[QueryMind](https://github.com/vedp9/AI-Product-Studio/tree/main/featured/querymind)** | A guarded natural-language-to-SQL experience for exploring structured data, with validation and self-correction considerations. |
 
 Explore the wider collection of AI applications—including RAG, agentic workflows, structured outputs, safety, and evaluation experiments in **[AI Product Studio](https://github.com/vedp9/AI-Product-Studio)**.
 
